@@ -10,4 +10,4 @@ def oxford_comma(array)
   end
 end
 
-oxford_comma(["dogs","cats","ponies"])
+puts(oxford_comma(["dogs","cats","ponies"]))
